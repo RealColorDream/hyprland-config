@@ -1,0 +1,14 @@
+theme="gruvbox_dark_soft"
+
+[editor]
+scroll-lines = 1
+cursorline = true
+
+[editor.indent-guides]
+render = true
+character = "▏"
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
